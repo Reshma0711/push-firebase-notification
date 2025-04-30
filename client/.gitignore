@@ -269,3 +269,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+#code with error
+.client/public/firebase-messaging-sw.js
+.client/utils/firebase-config.js
+
+
