@@ -272,7 +272,7 @@ dist
 
 
 #code with error
-.client/public/firebase-messaging-sw.js
-.client/utils/firebase-config.js
+./public/firebase-messaging-sw.js
+./utils/firebase-config.js
 
 
