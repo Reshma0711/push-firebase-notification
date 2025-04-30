@@ -271,8 +271,8 @@ dist
 .pnp.*
 
 
-#code with error
-./public/firebase-messaging-sw.js
-./utils/firebase-config.js
+#files should not be pushed
+public/firebase-messaging-sw.js
+utils/firebase-config.js
 
 

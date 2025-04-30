@@ -272,4 +272,4 @@ dist
 
 
 #ignoreed files
-./utils/firebase-admin-sdk.json
+utils/firebase-admin-sdk.json
